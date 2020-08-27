@@ -1,0 +1,21 @@
+{
+	"cat01": [{
+		"breed": "Abyssinian",
+		"location": "Asia",
+		"bodytype": "Semi-Foreign",
+		"Pattern": "Ticked tabby"
+	}],
+	"cat02": [{
+		"breed": "Bombay",
+		"location": "United States",
+		"bodytype": "Cobby",
+		"Pattern": "Solid black"
+	}],
+	"cat03": [{
+		"breed": "Chartreux",
+		"location": "France",
+		"bodytype": "Muscular",
+		"Pattern": "Solid blue"
+	}]
+
+}

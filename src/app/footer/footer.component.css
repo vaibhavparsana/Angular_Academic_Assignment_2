@@ -1,0 +1,12 @@
+h4 {
+    height: 100%;
+    margin: 0;
+    align-items: center;
+    color: white;
+}
+
+#fot {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}

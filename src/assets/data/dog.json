@@ -1,0 +1,21 @@
+{
+	"dog01": [{
+		"breed": "Affenpinscher",
+		"location": "Germany",
+		"coat": "Wire",
+		"color": "Black"
+	}],
+	"dog02": [{
+		"breed": "Brazilian Dogo",
+		"location": "Brazil",
+		"coat": "Short or medium",
+		"color": "Any color"
+	}],
+	"dog03": [{
+		"breed": "Rottweiler",
+		"location": "Germany",
+		"coat": "Double-coated",
+		"color": "Black and mahogany"
+	}]
+
+}
