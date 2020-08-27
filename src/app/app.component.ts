@@ -11,10 +11,10 @@ import dogs from "../assets/data/dog.json";
 export class AppComponent {
   title = 'parsanav-A4';
   bio:Parsanav ={
-    sid:991548013,
-    sname:"Vaibhav Parsana",
-    scampus:"Trafalgar",
-    slogin:"parsanav",
+    sid:0,
+    sname:"Name",
+    scampus:"Campus",
+    slogin:"Login",
     stitle:"Assignment#4/Angular More"
 };
   t01 :Cat[] =cats.cat01;
